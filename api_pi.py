@@ -9,54 +9,6 @@ def save_to_csv(data, filename):
         for row in data:
             writer.writerow(row)
 
-""" def fetch_data(api_key, year, month):
-    base_url = "https://api.eia.gov/v2/electricity/retail-sales/data"
-    
-    params = {
-        "api_key": api_key,
-        "data[]": "price",
-        "facets[stateid][]": "WA",
-        "frequency": "daily",  # Set to hourly
-        "sort[0][column]": "period",
-        "sort[0][direction]": "asc"
-    }
-    
-    results = []
-
-    PAGE_SIZE = 1000
-
-    start_date = f"{year}-{month:02}-01"
-    if month == 12:
-        end_date = f"{year+1}-01-01"
-    else:
-        end_date = f"{year}-{month+1:02}-01"
-
-    params["start"] = start_date
-    params["end"] = end_date
-    offset = 0
-
-    while True:  # Pagination loop
-        params["length"] = PAGE_SIZE
-        params["offset"] = offset
-
-        response = requests.get(base_url, params=params)
-        
-        if response.status_code == 200:
-            data = response.json()
-            current_data = data['response']['data']
-            results.extend(current_data)
-
-            # If returned data is less than PAGE_SIZE, end of data
-            if len(current_data) < PAGE_SIZE:
-                break
-
-            offset += PAGE_SIZE  # Next "page" of data
-        else:
-            print(f"Failed to fetch data for {start_date}. Status Code: {response.status_code}")
-            break
-
-    return results """
-
 
 def fetch_data(api_key, start_year, end_year):
     # Base API URL
