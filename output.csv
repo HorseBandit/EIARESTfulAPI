@@ -1,0 +1,655 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2019-01,WA,Washington,ALL,all sectors,8.01,cents per kilowatthour
+2019-01,WA,Washington,TRA,transportation,9.16,cents per kilowatthour
+2019-01,WA,Washington,RES,residential,9.41,cents per kilowatthour
+2019-01,WA,Washington,OTH,other,,cents per kilowatthour
+2019-01,WA,Washington,IND,industrial,4.62,cents per kilowatthour
+2019-01,WA,Washington,COM,commercial,8.72,cents per kilowatthour
+2019-02,WA,Washington,ALL,all sectors,8.31,cents per kilowatthour
+2019-02,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2019-02,WA,Washington,IND,industrial,5.17,cents per kilowatthour
+2019-02,WA,Washington,OTH,other,,cents per kilowatthour
+2019-02,WA,Washington,RES,residential,9.5,cents per kilowatthour
+2019-02,WA,Washington,TRA,transportation,9.59,cents per kilowatthour
+2019-02,WA,Washington,ALL,all sectors,8.31,cents per kilowatthour
+2019-02,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2019-02,WA,Washington,IND,industrial,5.17,cents per kilowatthour
+2019-02,WA,Washington,OTH,other,,cents per kilowatthour
+2019-02,WA,Washington,RES,residential,9.5,cents per kilowatthour
+2019-02,WA,Washington,TRA,transportation,9.59,cents per kilowatthour
+2019-03,WA,Washington,ALL,all sectors,8.3,cents per kilowatthour
+2019-03,WA,Washington,COM,commercial,8.93,cents per kilowatthour
+2019-03,WA,Washington,IND,industrial,5.18,cents per kilowatthour
+2019-03,WA,Washington,OTH,other,,cents per kilowatthour
+2019-03,WA,Washington,RES,residential,9.56,cents per kilowatthour
+2019-03,WA,Washington,TRA,transportation,9.43,cents per kilowatthour
+2019-03,WA,Washington,ALL,all sectors,8.3,cents per kilowatthour
+2019-03,WA,Washington,TRA,transportation,9.43,cents per kilowatthour
+2019-03,WA,Washington,RES,residential,9.56,cents per kilowatthour
+2019-03,WA,Washington,OTH,other,,cents per kilowatthour
+2019-03,WA,Washington,IND,industrial,5.18,cents per kilowatthour
+2019-03,WA,Washington,COM,commercial,8.93,cents per kilowatthour
+2019-04,WA,Washington,ALL,all sectors,8,cents per kilowatthour
+2019-04,WA,Washington,COM,commercial,8.75,cents per kilowatthour
+2019-04,WA,Washington,IND,industrial,4.58,cents per kilowatthour
+2019-04,WA,Washington,OTH,other,,cents per kilowatthour
+2019-04,WA,Washington,RES,residential,9.83,cents per kilowatthour
+2019-04,WA,Washington,TRA,transportation,9.38,cents per kilowatthour
+2019-04,WA,Washington,ALL,all sectors,8,cents per kilowatthour
+2019-04,WA,Washington,TRA,transportation,9.38,cents per kilowatthour
+2019-04,WA,Washington,RES,residential,9.83,cents per kilowatthour
+2019-04,WA,Washington,OTH,other,,cents per kilowatthour
+2019-04,WA,Washington,IND,industrial,4.58,cents per kilowatthour
+2019-04,WA,Washington,COM,commercial,8.75,cents per kilowatthour
+2019-05,WA,Washington,ALL,all sectors,7.82,cents per kilowatthour
+2019-05,WA,Washington,COM,commercial,8.76,cents per kilowatthour
+2019-05,WA,Washington,IND,industrial,4.4,cents per kilowatthour
+2019-05,WA,Washington,OTH,other,,cents per kilowatthour
+2019-05,WA,Washington,RES,residential,9.93,cents per kilowatthour
+2019-05,WA,Washington,TRA,transportation,9.32,cents per kilowatthour
+2019-05,WA,Washington,ALL,all sectors,7.82,cents per kilowatthour
+2019-05,WA,Washington,COM,commercial,8.76,cents per kilowatthour
+2019-05,WA,Washington,IND,industrial,4.4,cents per kilowatthour
+2019-05,WA,Washington,OTH,other,,cents per kilowatthour
+2019-05,WA,Washington,RES,residential,9.93,cents per kilowatthour
+2019-05,WA,Washington,TRA,transportation,9.32,cents per kilowatthour
+2019-06,WA,Washington,ALL,all sectors,7.84,cents per kilowatthour
+2019-06,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2019-06,WA,Washington,IND,industrial,4.55,cents per kilowatthour
+2019-06,WA,Washington,OTH,other,,cents per kilowatthour
+2019-06,WA,Washington,RES,residential,10.04,cents per kilowatthour
+2019-06,WA,Washington,TRA,transportation,9.51,cents per kilowatthour
+2019-06,WA,Washington,ALL,all sectors,7.84,cents per kilowatthour
+2019-06,WA,Washington,TRA,transportation,9.51,cents per kilowatthour
+2019-06,WA,Washington,RES,residential,10.04,cents per kilowatthour
+2019-06,WA,Washington,OTH,other,,cents per kilowatthour
+2019-06,WA,Washington,IND,industrial,4.55,cents per kilowatthour
+2019-06,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2019-07,WA,Washington,ALL,all sectors,7.85,cents per kilowatthour
+2019-07,WA,Washington,COM,commercial,8.62,cents per kilowatthour
+2019-07,WA,Washington,IND,industrial,4.75,cents per kilowatthour
+2019-07,WA,Washington,OTH,other,,cents per kilowatthour
+2019-07,WA,Washington,RES,residential,9.86,cents per kilowatthour
+2019-07,WA,Washington,TRA,transportation,9.43,cents per kilowatthour
+2019-07,WA,Washington,ALL,all sectors,7.85,cents per kilowatthour
+2019-07,WA,Washington,COM,commercial,8.62,cents per kilowatthour
+2019-07,WA,Washington,IND,industrial,4.75,cents per kilowatthour
+2019-07,WA,Washington,OTH,other,,cents per kilowatthour
+2019-07,WA,Washington,RES,residential,9.86,cents per kilowatthour
+2019-07,WA,Washington,TRA,transportation,9.43,cents per kilowatthour
+2019-08,WA,Washington,ALL,all sectors,8.01,cents per kilowatthour
+2019-08,WA,Washington,COM,commercial,8.52,cents per kilowatthour
+2019-08,WA,Washington,IND,industrial,5.32,cents per kilowatthour
+2019-08,WA,Washington,OTH,other,,cents per kilowatthour
+2019-08,WA,Washington,RES,residential,9.9,cents per kilowatthour
+2019-08,WA,Washington,TRA,transportation,9.36,cents per kilowatthour
+2019-08,WA,Washington,ALL,all sectors,8.01,cents per kilowatthour
+2019-08,WA,Washington,TRA,transportation,9.36,cents per kilowatthour
+2019-08,WA,Washington,RES,residential,9.9,cents per kilowatthour
+2019-08,WA,Washington,OTH,other,,cents per kilowatthour
+2019-08,WA,Washington,IND,industrial,5.32,cents per kilowatthour
+2019-08,WA,Washington,COM,commercial,8.52,cents per kilowatthour
+2019-09,WA,Washington,ALL,all sectors,7.9,cents per kilowatthour
+2019-09,WA,Washington,COM,commercial,8.67,cents per kilowatthour
+2019-09,WA,Washington,IND,industrial,4.74,cents per kilowatthour
+2019-09,WA,Washington,OTH,other,,cents per kilowatthour
+2019-09,WA,Washington,RES,residential,10,cents per kilowatthour
+2019-09,WA,Washington,TRA,transportation,9.67,cents per kilowatthour
+2019-09,WA,Washington,ALL,all sectors,7.9,cents per kilowatthour
+2019-09,WA,Washington,TRA,transportation,9.67,cents per kilowatthour
+2019-09,WA,Washington,RES,residential,10,cents per kilowatthour
+2019-09,WA,Washington,OTH,other,,cents per kilowatthour
+2019-09,WA,Washington,IND,industrial,4.74,cents per kilowatthour
+2019-09,WA,Washington,COM,commercial,8.67,cents per kilowatthour
+2019-10,WA,Washington,ALL,all sectors,8.11,cents per kilowatthour
+2019-10,WA,Washington,COM,commercial,8.82,cents per kilowatthour
+2019-10,WA,Washington,IND,industrial,4.88,cents per kilowatthour
+2019-10,WA,Washington,OTH,other,,cents per kilowatthour
+2019-10,WA,Washington,RES,residential,9.78,cents per kilowatthour
+2019-10,WA,Washington,TRA,transportation,9.58,cents per kilowatthour
+2019-10,WA,Washington,ALL,all sectors,8.11,cents per kilowatthour
+2019-10,WA,Washington,TRA,transportation,9.58,cents per kilowatthour
+2019-10,WA,Washington,RES,residential,9.78,cents per kilowatthour
+2019-10,WA,Washington,OTH,other,,cents per kilowatthour
+2019-10,WA,Washington,IND,industrial,4.88,cents per kilowatthour
+2019-10,WA,Washington,COM,commercial,8.82,cents per kilowatthour
+2019-11,WA,Washington,ALL,all sectors,8.08,cents per kilowatthour
+2019-11,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2019-11,WA,Washington,IND,industrial,4.81,cents per kilowatthour
+2019-11,WA,Washington,OTH,other,,cents per kilowatthour
+2019-11,WA,Washington,RES,residential,9.65,cents per kilowatthour
+2019-11,WA,Washington,TRA,transportation,9.34,cents per kilowatthour
+2019-11,WA,Washington,ALL,all sectors,8.08,cents per kilowatthour
+2019-11,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2019-11,WA,Washington,IND,industrial,4.81,cents per kilowatthour
+2019-11,WA,Washington,OTH,other,,cents per kilowatthour
+2019-11,WA,Washington,RES,residential,9.65,cents per kilowatthour
+2019-11,WA,Washington,TRA,transportation,9.34,cents per kilowatthour
+2019-12,WA,Washington,ALL,all sectors,8.17,cents per kilowatthour
+2019-12,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2019-12,WA,Washington,IND,industrial,4.68,cents per kilowatthour
+2019-12,WA,Washington,OTH,other,,cents per kilowatthour
+2019-12,WA,Washington,RES,residential,9.57,cents per kilowatthour
+2019-12,WA,Washington,TRA,transportation,9.64,cents per kilowatthour
+2019-12,WA,Washington,ALL,all sectors,8.17,cents per kilowatthour
+2019-12,WA,Washington,TRA,transportation,9.64,cents per kilowatthour
+2019-12,WA,Washington,RES,residential,9.57,cents per kilowatthour
+2019-12,WA,Washington,OTH,other,,cents per kilowatthour
+2019-12,WA,Washington,IND,industrial,4.68,cents per kilowatthour
+2019-12,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2020-01,WA,Washington,ALL,all sectors,8.17,cents per kilowatthour
+2020-01,WA,Washington,COM,commercial,8.79,cents per kilowatthour
+2020-01,WA,Washington,IND,industrial,4.67,cents per kilowatthour
+2020-01,WA,Washington,OTH,other,,cents per kilowatthour
+2020-01,WA,Washington,RES,residential,9.55,cents per kilowatthour
+2020-01,WA,Washington,TRA,transportation,9.56,cents per kilowatthour
+2020-01,WA,Washington,ALL,all sectors,8.17,cents per kilowatthour
+2020-01,WA,Washington,COM,commercial,8.79,cents per kilowatthour
+2020-01,WA,Washington,IND,industrial,4.67,cents per kilowatthour
+2020-01,WA,Washington,OTH,other,,cents per kilowatthour
+2020-01,WA,Washington,RES,residential,9.55,cents per kilowatthour
+2020-01,WA,Washington,TRA,transportation,9.56,cents per kilowatthour
+2020-02,WA,Washington,ALL,all sectors,8.14,cents per kilowatthour
+2020-02,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2020-02,WA,Washington,IND,industrial,4.7,cents per kilowatthour
+2020-02,WA,Washington,OTH,other,,cents per kilowatthour
+2020-02,WA,Washington,RES,residential,9.54,cents per kilowatthour
+2020-02,WA,Washington,TRA,transportation,9.93,cents per kilowatthour
+2020-02,WA,Washington,ALL,all sectors,8.14,cents per kilowatthour
+2020-02,WA,Washington,COM,commercial,8.84,cents per kilowatthour
+2020-02,WA,Washington,IND,industrial,4.7,cents per kilowatthour
+2020-02,WA,Washington,OTH,other,,cents per kilowatthour
+2020-02,WA,Washington,RES,residential,9.54,cents per kilowatthour
+2020-02,WA,Washington,TRA,transportation,9.93,cents per kilowatthour
+2020-03,WA,Washington,ALL,all sectors,8.27,cents per kilowatthour
+2020-03,WA,Washington,COM,commercial,8.93,cents per kilowatthour
+2020-03,WA,Washington,IND,industrial,4.84,cents per kilowatthour
+2020-03,WA,Washington,OTH,other,,cents per kilowatthour
+2020-03,WA,Washington,RES,residential,9.72,cents per kilowatthour
+2020-03,WA,Washington,TRA,transportation,9.85,cents per kilowatthour
+2020-03,WA,Washington,ALL,all sectors,8.27,cents per kilowatthour
+2020-03,WA,Washington,TRA,transportation,9.85,cents per kilowatthour
+2020-03,WA,Washington,RES,residential,9.72,cents per kilowatthour
+2020-03,WA,Washington,OTH,other,,cents per kilowatthour
+2020-03,WA,Washington,IND,industrial,4.84,cents per kilowatthour
+2020-03,WA,Washington,COM,commercial,8.93,cents per kilowatthour
+2020-04,WA,Washington,ALL,all sectors,8.08,cents per kilowatthour
+2020-04,WA,Washington,COM,commercial,8.74,cents per kilowatthour
+2020-04,WA,Washington,IND,industrial,4.75,cents per kilowatthour
+2020-04,WA,Washington,OTH,other,,cents per kilowatthour
+2020-04,WA,Washington,RES,residential,9.8,cents per kilowatthour
+2020-04,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2020-04,WA,Washington,ALL,all sectors,8.08,cents per kilowatthour
+2020-04,WA,Washington,COM,commercial,8.74,cents per kilowatthour
+2020-04,WA,Washington,IND,industrial,4.75,cents per kilowatthour
+2020-04,WA,Washington,OTH,other,,cents per kilowatthour
+2020-04,WA,Washington,RES,residential,9.8,cents per kilowatthour
+2020-04,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2020-05,WA,Washington,ALL,all sectors,8.13,cents per kilowatthour
+2020-05,WA,Washington,COM,commercial,9.02,cents per kilowatthour
+2020-05,WA,Washington,IND,industrial,4.66,cents per kilowatthour
+2020-05,WA,Washington,OTH,other,,cents per kilowatthour
+2020-05,WA,Washington,RES,residential,10.01,cents per kilowatthour
+2020-05,WA,Washington,TRA,transportation,9.86,cents per kilowatthour
+2020-05,WA,Washington,ALL,all sectors,8.13,cents per kilowatthour
+2020-05,WA,Washington,TRA,transportation,9.86,cents per kilowatthour
+2020-05,WA,Washington,RES,residential,10.01,cents per kilowatthour
+2020-05,WA,Washington,OTH,other,,cents per kilowatthour
+2020-05,WA,Washington,IND,industrial,4.66,cents per kilowatthour
+2020-05,WA,Washington,COM,commercial,9.02,cents per kilowatthour
+2020-06,WA,Washington,COM,commercial,9.07,cents per kilowatthour
+2020-06,WA,Washington,IND,industrial,4.8,cents per kilowatthour
+2020-06,WA,Washington,OTH,other,,cents per kilowatthour
+2020-06,WA,Washington,ALL,all sectors,8.22,cents per kilowatthour
+2020-06,WA,Washington,RES,residential,10.08,cents per kilowatthour
+2020-06,WA,Washington,TRA,transportation,10.37,cents per kilowatthour
+2020-06,WA,Washington,COM,commercial,9.07,cents per kilowatthour
+2020-06,WA,Washington,TRA,transportation,10.37,cents per kilowatthour
+2020-06,WA,Washington,RES,residential,10.08,cents per kilowatthour
+2020-06,WA,Washington,IND,industrial,4.8,cents per kilowatthour
+2020-06,WA,Washington,OTH,other,,cents per kilowatthour
+2020-06,WA,Washington,ALL,all sectors,8.22,cents per kilowatthour
+2020-07,WA,Washington,IND,industrial,5.3,cents per kilowatthour
+2020-07,WA,Washington,OTH,other,,cents per kilowatthour
+2020-07,WA,Washington,RES,residential,10.02,cents per kilowatthour
+2020-07,WA,Washington,TRA,transportation,9.89,cents per kilowatthour
+2020-07,WA,Washington,ALL,all sectors,8.33,cents per kilowatthour
+2020-07,WA,Washington,COM,commercial,8.74,cents per kilowatthour
+2020-07,WA,Washington,IND,industrial,5.3,cents per kilowatthour
+2020-07,WA,Washington,COM,commercial,8.74,cents per kilowatthour
+2020-07,WA,Washington,ALL,all sectors,8.33,cents per kilowatthour
+2020-07,WA,Washington,TRA,transportation,9.89,cents per kilowatthour
+2020-07,WA,Washington,RES,residential,10.02,cents per kilowatthour
+2020-07,WA,Washington,OTH,other,,cents per kilowatthour
+2020-08,WA,Washington,ALL,all sectors,8.25,cents per kilowatthour
+2020-08,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2020-08,WA,Washington,IND,industrial,5.23,cents per kilowatthour
+2020-08,WA,Washington,OTH,other,,cents per kilowatthour
+2020-08,WA,Washington,RES,residential,10.08,cents per kilowatthour
+2020-08,WA,Washington,TRA,transportation,9.86,cents per kilowatthour
+2020-08,WA,Washington,ALL,all sectors,8.25,cents per kilowatthour
+2020-08,WA,Washington,COM,commercial,8.77,cents per kilowatthour
+2020-08,WA,Washington,IND,industrial,5.23,cents per kilowatthour
+2020-08,WA,Washington,OTH,other,,cents per kilowatthour
+2020-08,WA,Washington,RES,residential,10.08,cents per kilowatthour
+2020-08,WA,Washington,TRA,transportation,9.86,cents per kilowatthour
+2020-09,WA,Washington,TRA,transportation,9.92,cents per kilowatthour
+2020-09,WA,Washington,ALL,all sectors,8.53,cents per kilowatthour
+2020-09,WA,Washington,COM,commercial,8.9,cents per kilowatthour
+2020-09,WA,Washington,IND,industrial,5.74,cents per kilowatthour
+2020-09,WA,Washington,OTH,other,,cents per kilowatthour
+2020-09,WA,Washington,RES,residential,10.19,cents per kilowatthour
+2020-09,WA,Washington,TRA,transportation,9.92,cents per kilowatthour
+2020-09,WA,Washington,RES,residential,10.19,cents per kilowatthour
+2020-09,WA,Washington,OTH,other,,cents per kilowatthour
+2020-09,WA,Washington,IND,industrial,5.74,cents per kilowatthour
+2020-09,WA,Washington,COM,commercial,8.9,cents per kilowatthour
+2020-09,WA,Washington,ALL,all sectors,8.53,cents per kilowatthour
+2020-10,WA,Washington,ALL,all sectors,8.55,cents per kilowatthour
+2020-10,WA,Washington,COM,commercial,9.1,cents per kilowatthour
+2020-10,WA,Washington,IND,industrial,5.64,cents per kilowatthour
+2020-10,WA,Washington,OTH,other,,cents per kilowatthour
+2020-10,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2020-10,WA,Washington,TRA,transportation,10.13,cents per kilowatthour
+2020-10,WA,Washington,ALL,all sectors,8.55,cents per kilowatthour
+2020-10,WA,Washington,TRA,transportation,10.13,cents per kilowatthour
+2020-10,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2020-10,WA,Washington,OTH,other,,cents per kilowatthour
+2020-10,WA,Washington,IND,industrial,5.64,cents per kilowatthour
+2020-10,WA,Washington,COM,commercial,9.1,cents per kilowatthour
+2020-11,WA,Washington,ALL,all sectors,8.67,cents per kilowatthour
+2020-11,WA,Washington,COM,commercial,9.13,cents per kilowatthour
+2020-11,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2020-11,WA,Washington,OTH,other,,cents per kilowatthour
+2020-11,WA,Washington,RES,residential,9.95,cents per kilowatthour
+2020-11,WA,Washington,TRA,transportation,10,cents per kilowatthour
+2020-11,WA,Washington,ALL,all sectors,8.67,cents per kilowatthour
+2020-11,WA,Washington,COM,commercial,9.13,cents per kilowatthour
+2020-11,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2020-11,WA,Washington,OTH,other,,cents per kilowatthour
+2020-11,WA,Washington,RES,residential,9.95,cents per kilowatthour
+2020-11,WA,Washington,TRA,transportation,10,cents per kilowatthour
+2020-12,WA,Washington,ALL,all sectors,8.68,cents per kilowatthour
+2020-12,WA,Washington,COM,commercial,9.09,cents per kilowatthour
+2020-12,WA,Washington,IND,industrial,5.31,cents per kilowatthour
+2020-12,WA,Washington,OTH,other,,cents per kilowatthour
+2020-12,WA,Washington,RES,residential,9.88,cents per kilowatthour
+2020-12,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2020-12,WA,Washington,ALL,all sectors,8.68,cents per kilowatthour
+2020-12,WA,Washington,COM,commercial,9.09,cents per kilowatthour
+2020-12,WA,Washington,IND,industrial,5.31,cents per kilowatthour
+2020-12,WA,Washington,OTH,other,,cents per kilowatthour
+2020-12,WA,Washington,RES,residential,9.88,cents per kilowatthour
+2020-12,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2021-01,WA,Washington,ALL,all sectors,8.59,cents per kilowatthour
+2021-01,WA,Washington,COM,commercial,8.91,cents per kilowatthour
+2021-01,WA,Washington,IND,industrial,5.36,cents per kilowatthour
+2021-01,WA,Washington,OTH,other,,cents per kilowatthour
+2021-01,WA,Washington,RES,residential,9.77,cents per kilowatthour
+2021-01,WA,Washington,TRA,transportation,9.94,cents per kilowatthour
+2021-01,WA,Washington,ALL,all sectors,8.59,cents per kilowatthour
+2021-01,WA,Washington,COM,commercial,8.91,cents per kilowatthour
+2021-01,WA,Washington,IND,industrial,5.36,cents per kilowatthour
+2021-01,WA,Washington,OTH,other,,cents per kilowatthour
+2021-01,WA,Washington,RES,residential,9.77,cents per kilowatthour
+2021-01,WA,Washington,TRA,transportation,9.94,cents per kilowatthour
+2021-02,WA,Washington,ALL,all sectors,8.79,cents per kilowatthour
+2021-02,WA,Washington,COM,commercial,9.08,cents per kilowatthour
+2021-02,WA,Washington,IND,industrial,5.92,cents per kilowatthour
+2021-02,WA,Washington,OTH,other,,cents per kilowatthour
+2021-02,WA,Washington,RES,residential,9.81,cents per kilowatthour
+2021-02,WA,Washington,TRA,transportation,10.38,cents per kilowatthour
+2021-02,WA,Washington,ALL,all sectors,8.79,cents per kilowatthour
+2021-02,WA,Washington,TRA,transportation,10.38,cents per kilowatthour
+2021-02,WA,Washington,RES,residential,9.81,cents per kilowatthour
+2021-02,WA,Washington,OTH,other,,cents per kilowatthour
+2021-02,WA,Washington,IND,industrial,5.92,cents per kilowatthour
+2021-02,WA,Washington,COM,commercial,9.08,cents per kilowatthour
+2021-03,WA,Washington,IND,industrial,5.53,cents per kilowatthour
+2021-03,WA,Washington,OTH,other,,cents per kilowatthour
+2021-03,WA,Washington,RES,residential,9.97,cents per kilowatthour
+2021-03,WA,Washington,TRA,transportation,9.87,cents per kilowatthour
+2021-03,WA,Washington,ALL,all sectors,8.76,cents per kilowatthour
+2021-03,WA,Washington,COM,commercial,9.13,cents per kilowatthour
+2021-03,WA,Washington,IND,industrial,5.53,cents per kilowatthour
+2021-03,WA,Washington,OTH,other,,cents per kilowatthour
+2021-03,WA,Washington,RES,residential,9.97,cents per kilowatthour
+2021-03,WA,Washington,TRA,transportation,9.87,cents per kilowatthour
+2021-03,WA,Washington,ALL,all sectors,8.76,cents per kilowatthour
+2021-03,WA,Washington,COM,commercial,9.13,cents per kilowatthour
+2021-04,WA,Washington,ALL,all sectors,8.64,cents per kilowatthour
+2021-04,WA,Washington,COM,commercial,8.95,cents per kilowatthour
+2021-04,WA,Washington,IND,industrial,5.66,cents per kilowatthour
+2021-04,WA,Washington,OTH,other,,cents per kilowatthour
+2021-04,WA,Washington,RES,residential,10.14,cents per kilowatthour
+2021-04,WA,Washington,TRA,transportation,9.83,cents per kilowatthour
+2021-04,WA,Washington,ALL,all sectors,8.64,cents per kilowatthour
+2021-04,WA,Washington,TRA,transportation,9.83,cents per kilowatthour
+2021-04,WA,Washington,RES,residential,10.14,cents per kilowatthour
+2021-04,WA,Washington,OTH,other,,cents per kilowatthour
+2021-04,WA,Washington,IND,industrial,5.66,cents per kilowatthour
+2021-04,WA,Washington,COM,commercial,8.95,cents per kilowatthour
+2021-05,WA,Washington,ALL,all sectors,8.53,cents per kilowatthour
+2021-05,WA,Washington,COM,commercial,9.07,cents per kilowatthour
+2021-05,WA,Washington,IND,industrial,5.46,cents per kilowatthour
+2021-05,WA,Washington,OTH,other,,cents per kilowatthour
+2021-05,WA,Washington,RES,residential,10.21,cents per kilowatthour
+2021-05,WA,Washington,TRA,transportation,10.47,cents per kilowatthour
+2021-05,WA,Washington,ALL,all sectors,8.53,cents per kilowatthour
+2021-05,WA,Washington,COM,commercial,9.07,cents per kilowatthour
+2021-05,WA,Washington,IND,industrial,5.46,cents per kilowatthour
+2021-05,WA,Washington,OTH,other,,cents per kilowatthour
+2021-05,WA,Washington,RES,residential,10.21,cents per kilowatthour
+2021-05,WA,Washington,TRA,transportation,10.47,cents per kilowatthour
+2021-06,WA,Washington,IND,industrial,5.65,cents per kilowatthour
+2021-06,WA,Washington,OTH,other,,cents per kilowatthour
+2021-06,WA,Washington,RES,residential,10.15,cents per kilowatthour
+2021-06,WA,Washington,TRA,transportation,10.32,cents per kilowatthour
+2021-06,WA,Washington,ALL,all sectors,8.61,cents per kilowatthour
+2021-06,WA,Washington,COM,commercial,9.12,cents per kilowatthour
+2021-06,WA,Washington,IND,industrial,5.65,cents per kilowatthour
+2021-06,WA,Washington,OTH,other,,cents per kilowatthour
+2021-06,WA,Washington,RES,residential,10.15,cents per kilowatthour
+2021-06,WA,Washington,TRA,transportation,10.32,cents per kilowatthour
+2021-06,WA,Washington,ALL,all sectors,8.61,cents per kilowatthour
+2021-06,WA,Washington,COM,commercial,9.12,cents per kilowatthour
+2021-07,WA,Washington,ALL,all sectors,8.84,cents per kilowatthour
+2021-07,WA,Washington,COM,commercial,9.16,cents per kilowatthour
+2021-07,WA,Washington,IND,industrial,6.32,cents per kilowatthour
+2021-07,WA,Washington,OTH,other,,cents per kilowatthour
+2021-07,WA,Washington,RES,residential,10.26,cents per kilowatthour
+2021-07,WA,Washington,TRA,transportation,9.64,cents per kilowatthour
+2021-07,WA,Washington,ALL,all sectors,8.84,cents per kilowatthour
+2021-07,WA,Washington,TRA,transportation,9.64,cents per kilowatthour
+2021-07,WA,Washington,RES,residential,10.26,cents per kilowatthour
+2021-07,WA,Washington,OTH,other,,cents per kilowatthour
+2021-07,WA,Washington,IND,industrial,6.32,cents per kilowatthour
+2021-07,WA,Washington,COM,commercial,9.16,cents per kilowatthour
+2021-08,WA,Washington,ALL,all sectors,8.71,cents per kilowatthour
+2021-08,WA,Washington,COM,commercial,9.04,cents per kilowatthour
+2021-08,WA,Washington,IND,industrial,6.05,cents per kilowatthour
+2021-08,WA,Washington,OTH,other,,cents per kilowatthour
+2021-08,WA,Washington,RES,residential,10.29,cents per kilowatthour
+2021-08,WA,Washington,TRA,transportation,9.78,cents per kilowatthour
+2021-08,WA,Washington,ALL,all sectors,8.71,cents per kilowatthour
+2021-08,WA,Washington,COM,commercial,9.04,cents per kilowatthour
+2021-08,WA,Washington,IND,industrial,6.05,cents per kilowatthour
+2021-08,WA,Washington,OTH,other,,cents per kilowatthour
+2021-08,WA,Washington,RES,residential,10.29,cents per kilowatthour
+2021-08,WA,Washington,TRA,transportation,9.78,cents per kilowatthour
+2021-09,WA,Washington,ALL,all sectors,8.78,cents per kilowatthour
+2021-09,WA,Washington,COM,commercial,9.18,cents per kilowatthour
+2021-09,WA,Washington,IND,industrial,6.09,cents per kilowatthour
+2021-09,WA,Washington,OTH,other,,cents per kilowatthour
+2021-09,WA,Washington,RES,residential,10.41,cents per kilowatthour
+2021-09,WA,Washington,TRA,transportation,9.98,cents per kilowatthour
+2021-09,WA,Washington,ALL,all sectors,8.78,cents per kilowatthour
+2021-09,WA,Washington,COM,commercial,9.18,cents per kilowatthour
+2021-09,WA,Washington,IND,industrial,6.09,cents per kilowatthour
+2021-09,WA,Washington,OTH,other,,cents per kilowatthour
+2021-09,WA,Washington,RES,residential,10.41,cents per kilowatthour
+2021-09,WA,Washington,TRA,transportation,9.98,cents per kilowatthour
+2021-10,WA,Washington,ALL,all sectors,8.94,cents per kilowatthour
+2021-10,WA,Washington,COM,commercial,9.48,cents per kilowatthour
+2021-10,WA,Washington,IND,industrial,6.09,cents per kilowatthour
+2021-10,WA,Washington,OTH,other,,cents per kilowatthour
+2021-10,WA,Washington,RES,residential,10.39,cents per kilowatthour
+2021-10,WA,Washington,TRA,transportation,9.71,cents per kilowatthour
+2021-10,WA,Washington,ALL,all sectors,8.94,cents per kilowatthour
+2021-10,WA,Washington,TRA,transportation,9.71,cents per kilowatthour
+2021-10,WA,Washington,RES,residential,10.39,cents per kilowatthour
+2021-10,WA,Washington,OTH,other,,cents per kilowatthour
+2021-10,WA,Washington,IND,industrial,6.09,cents per kilowatthour
+2021-10,WA,Washington,COM,commercial,9.48,cents per kilowatthour
+2021-11,WA,Washington,ALL,all sectors,8.84,cents per kilowatthour
+2021-11,WA,Washington,COM,commercial,9.31,cents per kilowatthour
+2021-11,WA,Washington,IND,industrial,5.8,cents per kilowatthour
+2021-11,WA,Washington,OTH,other,,cents per kilowatthour
+2021-11,WA,Washington,RES,residential,10.22,cents per kilowatthour
+2021-11,WA,Washington,TRA,transportation,9.9,cents per kilowatthour
+2021-11,WA,Washington,ALL,all sectors,8.84,cents per kilowatthour
+2021-11,WA,Washington,TRA,transportation,9.9,cents per kilowatthour
+2021-11,WA,Washington,RES,residential,10.22,cents per kilowatthour
+2021-11,WA,Washington,OTH,other,,cents per kilowatthour
+2021-11,WA,Washington,IND,industrial,5.8,cents per kilowatthour
+2021-11,WA,Washington,COM,commercial,9.31,cents per kilowatthour
+2021-12,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2021-12,WA,Washington,COM,commercial,9.29,cents per kilowatthour
+2021-12,WA,Washington,IND,industrial,5.71,cents per kilowatthour
+2021-12,WA,Washington,OTH,other,,cents per kilowatthour
+2021-12,WA,Washington,RES,residential,10.09,cents per kilowatthour
+2021-12,WA,Washington,TRA,transportation,9.54,cents per kilowatthour
+2021-12,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2021-12,WA,Washington,COM,commercial,9.29,cents per kilowatthour
+2021-12,WA,Washington,IND,industrial,5.71,cents per kilowatthour
+2021-12,WA,Washington,OTH,other,,cents per kilowatthour
+2021-12,WA,Washington,RES,residential,10.09,cents per kilowatthour
+2021-12,WA,Washington,TRA,transportation,9.54,cents per kilowatthour
+2022-01,WA,Washington,ALL,all sectors,8.91,cents per kilowatthour
+2022-01,WA,Washington,COM,commercial,9.41,cents per kilowatthour
+2022-01,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2022-01,WA,Washington,OTH,other,,cents per kilowatthour
+2022-01,WA,Washington,RES,residential,9.92,cents per kilowatthour
+2022-01,WA,Washington,TRA,transportation,9.78,cents per kilowatthour
+2022-01,WA,Washington,ALL,all sectors,8.91,cents per kilowatthour
+2022-01,WA,Washington,TRA,transportation,9.78,cents per kilowatthour
+2022-01,WA,Washington,RES,residential,9.92,cents per kilowatthour
+2022-01,WA,Washington,OTH,other,,cents per kilowatthour
+2022-01,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2022-01,WA,Washington,COM,commercial,9.41,cents per kilowatthour
+2022-02,WA,Washington,ALL,all sectors,9.01,cents per kilowatthour
+2022-02,WA,Washington,COM,commercial,9.49,cents per kilowatthour
+2022-02,WA,Washington,IND,industrial,5.87,cents per kilowatthour
+2022-02,WA,Washington,OTH,other,,cents per kilowatthour
+2022-02,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2022-02,WA,Washington,TRA,transportation,9.93,cents per kilowatthour
+2022-02,WA,Washington,ALL,all sectors,9.01,cents per kilowatthour
+2022-02,WA,Washington,TRA,transportation,9.93,cents per kilowatthour
+2022-02,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2022-02,WA,Washington,COM,commercial,9.49,cents per kilowatthour
+2022-02,WA,Washington,IND,industrial,5.87,cents per kilowatthour
+2022-02,WA,Washington,OTH,other,,cents per kilowatthour
+2022-03,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2022-03,WA,Washington,COM,commercial,9.53,cents per kilowatthour
+2022-03,WA,Washington,IND,industrial,5.69,cents per kilowatthour
+2022-03,WA,Washington,OTH,other,,cents per kilowatthour
+2022-03,WA,Washington,RES,residential,10.12,cents per kilowatthour
+2022-03,WA,Washington,TRA,transportation,9.85,cents per kilowatthour
+2022-03,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2022-03,WA,Washington,TRA,transportation,9.85,cents per kilowatthour
+2022-03,WA,Washington,RES,residential,10.12,cents per kilowatthour
+2022-03,WA,Washington,OTH,other,,cents per kilowatthour
+2022-03,WA,Washington,IND,industrial,5.69,cents per kilowatthour
+2022-03,WA,Washington,COM,commercial,9.53,cents per kilowatthour
+2022-04,WA,Washington,ALL,all sectors,8.89,cents per kilowatthour
+2022-04,WA,Washington,COM,commercial,9.38,cents per kilowatthour
+2022-04,WA,Washington,IND,industrial,6.02,cents per kilowatthour
+2022-04,WA,Washington,OTH,other,,cents per kilowatthour
+2022-04,WA,Washington,RES,residential,10.12,cents per kilowatthour
+2022-04,WA,Washington,TRA,transportation,9.98,cents per kilowatthour
+2022-04,WA,Washington,ALL,all sectors,8.89,cents per kilowatthour
+2022-04,WA,Washington,COM,commercial,9.38,cents per kilowatthour
+2022-04,WA,Washington,IND,industrial,6.02,cents per kilowatthour
+2022-04,WA,Washington,OTH,other,,cents per kilowatthour
+2022-04,WA,Washington,RES,residential,10.12,cents per kilowatthour
+2022-04,WA,Washington,TRA,transportation,9.98,cents per kilowatthour
+2022-05,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2022-05,WA,Washington,COM,commercial,9.57,cents per kilowatthour
+2022-05,WA,Washington,IND,industrial,5.86,cents per kilowatthour
+2022-05,WA,Washington,OTH,other,,cents per kilowatthour
+2022-05,WA,Washington,RES,residential,10.34,cents per kilowatthour
+2022-05,WA,Washington,TRA,transportation,10.62,cents per kilowatthour
+2022-05,WA,Washington,ALL,all sectors,8.95,cents per kilowatthour
+2022-05,WA,Washington,COM,commercial,9.57,cents per kilowatthour
+2022-05,WA,Washington,IND,industrial,5.86,cents per kilowatthour
+2022-05,WA,Washington,OTH,other,,cents per kilowatthour
+2022-05,WA,Washington,RES,residential,10.34,cents per kilowatthour
+2022-05,WA,Washington,TRA,transportation,10.62,cents per kilowatthour
+2022-06,WA,Washington,ALL,all sectors,8.81,cents per kilowatthour
+2022-06,WA,Washington,COM,commercial,9.51,cents per kilowatthour
+2022-06,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2022-06,WA,Washington,OTH,other,,cents per kilowatthour
+2022-06,WA,Washington,RES,residential,10.49,cents per kilowatthour
+2022-06,WA,Washington,TRA,transportation,9.99,cents per kilowatthour
+2022-06,WA,Washington,ALL,all sectors,8.81,cents per kilowatthour
+2022-06,WA,Washington,COM,commercial,9.51,cents per kilowatthour
+2022-06,WA,Washington,IND,industrial,5.59,cents per kilowatthour
+2022-06,WA,Washington,OTH,other,,cents per kilowatthour
+2022-06,WA,Washington,RES,residential,10.49,cents per kilowatthour
+2022-06,WA,Washington,TRA,transportation,9.99,cents per kilowatthour
+2022-07,WA,Washington,ALL,all sectors,8.87,cents per kilowatthour
+2022-07,WA,Washington,COM,commercial,9.49,cents per kilowatthour
+2022-07,WA,Washington,IND,industrial,5.71,cents per kilowatthour
+2022-07,WA,Washington,OTH,other,,cents per kilowatthour
+2022-07,WA,Washington,RES,residential,10.42,cents per kilowatthour
+2022-07,WA,Washington,TRA,transportation,10.14,cents per kilowatthour
+2022-07,WA,Washington,ALL,all sectors,8.87,cents per kilowatthour
+2022-07,WA,Washington,COM,commercial,9.49,cents per kilowatthour
+2022-07,WA,Washington,IND,industrial,5.71,cents per kilowatthour
+2022-07,WA,Washington,OTH,other,,cents per kilowatthour
+2022-07,WA,Washington,RES,residential,10.42,cents per kilowatthour
+2022-07,WA,Washington,TRA,transportation,10.14,cents per kilowatthour
+2022-08,WA,Washington,TRA,transportation,10.07,cents per kilowatthour
+2022-08,WA,Washington,ALL,all sectors,9.03,cents per kilowatthour
+2022-08,WA,Washington,COM,commercial,9.48,cents per kilowatthour
+2022-08,WA,Washington,IND,industrial,6.4,cents per kilowatthour
+2022-08,WA,Washington,OTH,other,,cents per kilowatthour
+2022-08,WA,Washington,RES,residential,10.39,cents per kilowatthour
+2022-08,WA,Washington,TRA,transportation,10.07,cents per kilowatthour
+2022-08,WA,Washington,ALL,all sectors,9.03,cents per kilowatthour
+2022-08,WA,Washington,COM,commercial,9.48,cents per kilowatthour
+2022-08,WA,Washington,IND,industrial,6.4,cents per kilowatthour
+2022-08,WA,Washington,OTH,other,,cents per kilowatthour
+2022-08,WA,Washington,RES,residential,10.39,cents per kilowatthour
+2022-09,WA,Washington,ALL,all sectors,9.12,cents per kilowatthour
+2022-09,WA,Washington,COM,commercial,9.51,cents per kilowatthour
+2022-09,WA,Washington,IND,industrial,6.59,cents per kilowatthour
+2022-09,WA,Washington,OTH,other,,cents per kilowatthour
+2022-09,WA,Washington,RES,residential,10.57,cents per kilowatthour
+2022-09,WA,Washington,TRA,transportation,10.32,cents per kilowatthour
+2022-09,WA,Washington,ALL,all sectors,9.12,cents per kilowatthour
+2022-09,WA,Washington,COM,commercial,9.51,cents per kilowatthour
+2022-09,WA,Washington,IND,industrial,6.59,cents per kilowatthour
+2022-09,WA,Washington,OTH,other,,cents per kilowatthour
+2022-09,WA,Washington,RES,residential,10.57,cents per kilowatthour
+2022-09,WA,Washington,TRA,transportation,10.32,cents per kilowatthour
+2022-10,WA,Washington,ALL,all sectors,9.16,cents per kilowatthour
+2022-10,WA,Washington,COM,commercial,9.81,cents per kilowatthour
+2022-10,WA,Washington,IND,industrial,6.22,cents per kilowatthour
+2022-10,WA,Washington,OTH,other,,cents per kilowatthour
+2022-10,WA,Washington,RES,residential,10.59,cents per kilowatthour
+2022-10,WA,Washington,TRA,transportation,10.16,cents per kilowatthour
+2022-10,WA,Washington,ALL,all sectors,9.16,cents per kilowatthour
+2022-10,WA,Washington,TRA,transportation,10.16,cents per kilowatthour
+2022-10,WA,Washington,RES,residential,10.59,cents per kilowatthour
+2022-10,WA,Washington,OTH,other,,cents per kilowatthour
+2022-10,WA,Washington,IND,industrial,6.22,cents per kilowatthour
+2022-10,WA,Washington,COM,commercial,9.81,cents per kilowatthour
+2022-11,WA,Washington,ALL,all sectors,9.1,cents per kilowatthour
+2022-11,WA,Washington,COM,commercial,9.47,cents per kilowatthour
+2022-11,WA,Washington,IND,industrial,6.04,cents per kilowatthour
+2022-11,WA,Washington,OTH,other,,cents per kilowatthour
+2022-11,WA,Washington,RES,residential,10.32,cents per kilowatthour
+2022-11,WA,Washington,TRA,transportation,10.08,cents per kilowatthour
+2022-11,WA,Washington,ALL,all sectors,9.1,cents per kilowatthour
+2022-11,WA,Washington,TRA,transportation,10.08,cents per kilowatthour
+2022-11,WA,Washington,RES,residential,10.32,cents per kilowatthour
+2022-11,WA,Washington,OTH,other,,cents per kilowatthour
+2022-11,WA,Washington,IND,industrial,6.04,cents per kilowatthour
+2022-11,WA,Washington,COM,commercial,9.47,cents per kilowatthour
+2022-12,WA,Washington,ALL,all sectors,9.34,cents per kilowatthour
+2022-12,WA,Washington,COM,commercial,9.63,cents per kilowatthour
+2022-12,WA,Washington,IND,industrial,7.07,cents per kilowatthour
+2022-12,WA,Washington,OTH,other,,cents per kilowatthour
+2022-12,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2022-12,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2022-12,WA,Washington,ALL,all sectors,9.34,cents per kilowatthour
+2022-12,WA,Washington,TRA,transportation,10.02,cents per kilowatthour
+2022-12,WA,Washington,RES,residential,10.03,cents per kilowatthour
+2022-12,WA,Washington,OTH,other,,cents per kilowatthour
+2022-12,WA,Washington,IND,industrial,7.07,cents per kilowatthour
+2022-12,WA,Washington,COM,commercial,9.63,cents per kilowatthour
+2023-01,WA,Washington,ALL,all sectors,9.57,cents per kilowatthour
+2023-01,WA,Washington,COM,commercial,10.13,cents per kilowatthour
+2023-01,WA,Washington,IND,industrial,6.41,cents per kilowatthour
+2023-01,WA,Washington,OTH,other,,cents per kilowatthour
+2023-01,WA,Washington,RES,residential,10.48,cents per kilowatthour
+2023-01,WA,Washington,TRA,transportation,10.21,cents per kilowatthour
+2023-01,WA,Washington,ALL,all sectors,9.57,cents per kilowatthour
+2023-01,WA,Washington,TRA,transportation,10.21,cents per kilowatthour
+2023-01,WA,Washington,RES,residential,10.48,cents per kilowatthour
+2023-01,WA,Washington,OTH,other,,cents per kilowatthour
+2023-01,WA,Washington,IND,industrial,6.41,cents per kilowatthour
+2023-01,WA,Washington,COM,commercial,10.13,cents per kilowatthour
+2023-02,WA,Washington,ALL,all sectors,9.65,cents per kilowatthour
+2023-02,WA,Washington,COM,commercial,10.12,cents per kilowatthour
+2023-02,WA,Washington,IND,industrial,6.44,cents per kilowatthour
+2023-02,WA,Washington,OTH,other,,cents per kilowatthour
+2023-02,WA,Washington,RES,residential,10.7,cents per kilowatthour
+2023-02,WA,Washington,TRA,transportation,10.72,cents per kilowatthour
+2023-02,WA,Washington,ALL,all sectors,9.65,cents per kilowatthour
+2023-02,WA,Washington,COM,commercial,10.12,cents per kilowatthour
+2023-02,WA,Washington,IND,industrial,6.44,cents per kilowatthour
+2023-02,WA,Washington,OTH,other,,cents per kilowatthour
+2023-02,WA,Washington,RES,residential,10.7,cents per kilowatthour
+2023-02,WA,Washington,TRA,transportation,10.72,cents per kilowatthour
+2023-03,WA,Washington,ALL,all sectors,9.68,cents per kilowatthour
+2023-03,WA,Washington,COM,commercial,10.24,cents per kilowatthour
+2023-03,WA,Washington,IND,industrial,6.35,cents per kilowatthour
+2023-03,WA,Washington,OTH,other,,cents per kilowatthour
+2023-03,WA,Washington,RES,residential,10.8,cents per kilowatthour
+2023-03,WA,Washington,TRA,transportation,10.85,cents per kilowatthour
+2023-03,WA,Washington,ALL,all sectors,9.68,cents per kilowatthour
+2023-03,WA,Washington,COM,commercial,10.24,cents per kilowatthour
+2023-03,WA,Washington,IND,industrial,6.35,cents per kilowatthour
+2023-03,WA,Washington,OTH,other,,cents per kilowatthour
+2023-03,WA,Washington,RES,residential,10.8,cents per kilowatthour
+2023-03,WA,Washington,TRA,transportation,10.85,cents per kilowatthour
+2023-04,WA,Washington,ALL,all sectors,9.68,cents per kilowatthour
+2023-04,WA,Washington,COM,commercial,10.05,cents per kilowatthour
+2023-04,WA,Washington,IND,industrial,6.49,cents per kilowatthour
+2023-04,WA,Washington,OTH,other,,cents per kilowatthour
+2023-04,WA,Washington,RES,residential,10.96,cents per kilowatthour
+2023-04,WA,Washington,TRA,transportation,10.38,cents per kilowatthour
+2023-04,WA,Washington,ALL,all sectors,9.68,cents per kilowatthour
+2023-04,WA,Washington,TRA,transportation,10.38,cents per kilowatthour
+2023-04,WA,Washington,RES,residential,10.96,cents per kilowatthour
+2023-04,WA,Washington,OTH,other,,cents per kilowatthour
+2023-04,WA,Washington,IND,industrial,6.49,cents per kilowatthour
+2023-04,WA,Washington,COM,commercial,10.05,cents per kilowatthour
+2023-05,WA,Washington,ALL,all sectors,9.39,cents per kilowatthour
+2023-05,WA,Washington,COM,commercial,9.94,cents per kilowatthour
+2023-05,WA,Washington,IND,industrial,5.79,cents per kilowatthour
+2023-05,WA,Washington,OTH,other,,cents per kilowatthour
+2023-05,WA,Washington,RES,residential,11.18,cents per kilowatthour
+2023-05,WA,Washington,TRA,transportation,10.42,cents per kilowatthour
+2023-05,WA,Washington,ALL,all sectors,9.39,cents per kilowatthour
+2023-05,WA,Washington,TRA,transportation,10.42,cents per kilowatthour
+2023-05,WA,Washington,RES,residential,11.18,cents per kilowatthour
+2023-05,WA,Washington,OTH,other,,cents per kilowatthour
+2023-05,WA,Washington,IND,industrial,5.79,cents per kilowatthour
+2023-05,WA,Washington,COM,commercial,9.94,cents per kilowatthour
+2023-06,WA,Washington,ALL,all sectors,9.36,cents per kilowatthour
+2023-06,WA,Washington,COM,commercial,9.86,cents per kilowatthour
+2023-06,WA,Washington,IND,industrial,6.07,cents per kilowatthour
+2023-06,WA,Washington,OTH,other,,cents per kilowatthour
+2023-06,WA,Washington,RES,residential,11.21,cents per kilowatthour
+2023-06,WA,Washington,TRA,transportation,10.14,cents per kilowatthour
+2023-06,WA,Washington,ALL,all sectors,9.36,cents per kilowatthour
+2023-06,WA,Washington,COM,commercial,9.86,cents per kilowatthour
+2023-06,WA,Washington,IND,industrial,6.07,cents per kilowatthour
+2023-06,WA,Washington,OTH,other,,cents per kilowatthour
+2023-06,WA,Washington,RES,residential,11.21,cents per kilowatthour
+2023-06,WA,Washington,TRA,transportation,10.14,cents per kilowatthour
+2023-07,WA,Washington,ALL,all sectors,9.49,cents per kilowatthour
+2023-07,WA,Washington,COM,commercial,9.88,cents per kilowatthour
+2023-07,WA,Washington,IND,industrial,6.38,cents per kilowatthour
+2023-07,WA,Washington,OTH,other,,cents per kilowatthour
+2023-07,WA,Washington,RES,residential,11.16,cents per kilowatthour
+2023-07,WA,Washington,TRA,transportation,10.07,cents per kilowatthour
+2023-07,WA,Washington,ALL,all sectors,9.49,cents per kilowatthour
+2023-07,WA,Washington,COM,commercial,9.88,cents per kilowatthour
+2023-07,WA,Washington,TRA,transportation,10.07,cents per kilowatthour
+2023-07,WA,Washington,OTH,other,,cents per kilowatthour
+2023-07,WA,Washington,RES,residential,11.16,cents per kilowatthour
+2023-07,WA,Washington,IND,industrial,6.38,cents per kilowatthour
